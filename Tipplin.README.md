@@ -1,14 +1,9 @@
-######################################################################################
-##
+----
 ## TIPPO - Information                  Visual Galaxy Framework Community 
-##------------------------------------------------------------------------------------
-##
+----
 ## Copyrights © 2017-2021 by Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
-##
+----
 ## Portions of Copyrights © 1982-2021 by Microsoft Corporation 
-##
-######################################################################################
-
 ----
 ### Future Reality Lab
 
