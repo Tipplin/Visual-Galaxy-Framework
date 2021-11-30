@@ -76,7 +76,7 @@ AMD
 
 ----
 ### Cray Programminglanguage CHAPEL 
-#### https://github.com/chapel-lang/
+#### https://github.com/chapel-lang/chapel
 ----
 ### Apache OpenOffice
 ----
