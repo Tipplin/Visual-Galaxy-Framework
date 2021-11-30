@@ -6,31 +6,26 @@
 #### Portions of Copyrights © 1982-2021 by Microsoft Corporation 
 ----
 ### Future Reality Lab
-
+----
 #### https://frl.nyu.edu/
-
+----
 ### Future Reality Lab - Projects:
-
+----
 #### https://github.com/futurerealitylab
-
 ----
 ## SAP
-
+----
 #### https://github.com/sap?page=1
-#### at Time 9 sites
 #### SAP FTPServer with Sourcecodes, z.b. maxdb (database) complete, but not the newest - commerical -
 #### SAP Archive
-
 ----
 ### Oracle
 ----
 #### https://github.com/oracle?page=1
-#### at Time 5 sites
 ----
 ### Google
 ----
 #### https://github.com/google?page=1
-#### at Time 42 Sites
 ----
 ### Google Pacman Game 
 #### https://www.google.com/logos/2010/pacman10-i.html
@@ -38,8 +33,7 @@
 ----
 ### Intel
 ----
-#### at Time 2 Sites ca. 34 Projects with sourcecodes.
-#### Intel Account, so you can download performance libraries. Intel Parallel Studio X 2018 for 30 days.
+####
 ----
 ### Siemens 
 ----
@@ -117,9 +111,6 @@ AMD
 #### http://www.operating-system.org/
 ----
 ### For Developers:
-----
-
-
 ----
 ### Fotos, Video and more:
 #### https://pixabay.com/
