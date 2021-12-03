@@ -5,6 +5,71 @@
 ----
 #### Portions of Copyrights © 1982-2021 by Microsoft Corporation 
 ----
+#### The author Christian Kurs hereby expressly declares
+#### that at the time the link was set, 
+#### no illegal content was recognizable on the linked pages!
+
+#### On the current and future design, 
+#### the content or the authorship of the linked / connected pages
+#### the author Christian Kurs has no influence.
+
+#### Therefore he hereby expressly distances 
+#### himself from all contents of all linked / connected pages,
+#### which were changed after the link was set.
+
+#### This statement applies to all links and references set within the company's 
+#### own website as well as to third-party entries in from
+#### Author Christian course set up guest books, discussion forums and mailing lists.
+
+#### For illegal, incorrect or incomplete content and 
+#### in particular for damage resulting from the use
+#### or 
+#### non-use of information presented in this way, 
+#### the provider of the page to which reference was made is solely liable,
+#### not the person who merely refers to the respective publication via links.
+
+## Copyright and Trademark Law:
+#### The author Christian Kurs endeavors to observe the copyrights of the documents, 
+#### texts and videos used in all publications.
+
+#### All brands and trademarks named on the website and 
+#### possibly protected by third parties are subject without 
+#### restriction to the provisions of the applicable trademark law and
+#### the ownership rights of the respective registered owner.
+ 
+#### The conclusion that trademarks are not protected 
+#### by the rights of third parties should not be drawn simply because they are mentioned.
+
+#### The copyright for public objects created by the author Christian Kurs 
+#### himself remains solely with the author Christian Kurs of the pages.
+#### Any duplication or use of such documents, source codes, websites, 
+#### texts in other electronic or printed publications is not permitted 
+#### without the express consent of the author Christian Kurs.
+
+## Legal validity of this disclaimer:
+#### This disclaimer is to be regarded as part of the internet publication which you were referred from.
+#### If parts or individual formulations of this text do not, 
+#### no longer or not completely correspond to the current legal situation,
+#### the remaining parts of the document remain valid in their content.
+
+#### The author Christian Kurs assumes no liability for the topicality, correctness,
+#### completeness or quality of the information provided.
+
+#### Liability claims against the author Christian Kurs which relate to material or 
+#### immaterial damage caused by the use or non-use of the information provided or 
+#### by the use of incorrect and incomplete information,
+#### are fundamentally excluded, unless the author Christian Kurs 
+#### can be shown to have acted with willful intent or gross negligence.
+#### All offers are non-binding.
+
+#### The author Christian Kurs expressly reserves the right to change, 
+#### add to, or delete parts of the pages or the entire offer or
+#### to cease publication temporarily or permanently without prior notice.
+
+#### Author Christian Kurs
+#### Germany, Bonn, Decembre 03, 2021
+
+----
 ### Future Reality Lab
 ----
 #### https://frl.nyu.edu/
