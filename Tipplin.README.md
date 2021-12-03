@@ -21,7 +21,7 @@
 
 #### This statement applies to all links and references set within the company's 
 #### own website as well as to third-party entries in from
-#### Author Christian course set up guest books, discussion forums and mailing lists.
+#### Author Christian Kurs set up guest books, discussion forums and mailing lists.
 
 #### For illegal, incorrect or incomplete content and 
 #### in particular for damage resulting from the use
