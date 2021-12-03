@@ -5,6 +5,8 @@
 ----
 #### Portions of Copyrights © 1982-2021 by Microsoft Corporation 
 ----
+## Links Disclaimer:
+----
 #### The author Christian Kurs hereby expressly declares
 #### that at the time the link was set, 
 #### no illegal content was recognizable on the linked pages!
