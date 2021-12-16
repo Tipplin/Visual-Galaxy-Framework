@@ -77,7 +77,7 @@
 #### search: github/tipplin, then Visual Galaxy Framework touch with finger 
 #### and then show code, then tipplin.README, see first disclaimer for links and more,
 #### and all Links, go Google Pacman Game, 
-#### start first screem with in motio finger, swipe left, the game start now.
+#### start first screen with in motion finger, swipe left, the game start now.
 #### On Smartphone show little Game screen, for greather Turn the phone horizontally.
 ----
 ### Future Reality Lab
