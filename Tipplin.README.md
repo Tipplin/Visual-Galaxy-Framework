@@ -72,9 +72,9 @@
 #### Germany, Bonn, Decembre 03, 2021
 ----
 ### Author Info:
-#### All our Projects and this links on Handy:
+#### All our Projects and this Links on Handy:
 #### Smartphone Button Google, and then the same Google, 
-#### search: github/tipplin, then Visual Galaxy framework touch with finger 
+#### search: github/tipplin, then Visual Galaxy Framework touch with finger 
 #### and then show code, then tipplin.README, see first disclaimer for links and more,
 #### and all Links, go Google Pacman Game, 
 #### start first screem with in motio finger, swipe left, the game start now.
