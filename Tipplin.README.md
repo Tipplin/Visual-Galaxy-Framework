@@ -70,7 +70,15 @@
 
 #### Author Christian Kurs
 #### Germany, Bonn, Decembre 03, 2021
-
+----
+### Author Info:
+#### All our Projects and this links on Handy:
+#### Smartphone Button Google, and then the same Google, 
+#### search: github/tipplin, then Visual Galaxy framework touch with finger 
+#### and then show code, then tipplin.README, see first disclaimer for links and more,
+#### and all Links, go Google Pacman Game, 
+#### start first screem with in motio finger, swipe left, the game start now.
+#### On Smartphone show little Game screen, for greather Turn the phone horizontally.
 ----
 ### Future Reality Lab
 ----
@@ -89,6 +97,7 @@
 ### Oracle
 ----
 #### https://github.com/oracle?page=1
+----
 ### Oracle Open Source
 #### https://developer.oracle.com/de/open-source/
 ----
@@ -97,12 +106,11 @@
 #### https://github.com/google?page=1
 ----
 ### Google Pacman Game 
+----
 #### https://www.google.com/logos/2010/pacman10-i.html
-
 ----
 ### Intel
-----
-####
+#### https://github.com/intel
 ----
 ### Siemens 
 ----
@@ -131,14 +139,19 @@ AMD
 #### https://github.com/ARM-software?page=1
 ----
 ### LG
-
+----
+#### https://github.com/lgsvl
 ----
 ### Philips
 ----
+#### https://github.com/philips-software
+----
 ### Linus Torvald host Linux Kernel System to GitHub with sourcecodes.
-
+----
+#### https://github.com/torvalds
 ----
 ### Cray Programminglanguage CHAPEL 
+----
 #### https://github.com/chapel-lang/chapel
 ----
 ### Apache OpenOffice
@@ -182,9 +195,11 @@ AMD
 ### For Developers:
 ----
 ### Fotos, Video and more:
+----
 #### https://pixabay.com/
 ----
 ### Free Music Archive:
+----
 #### http://freemusicarchive.org/
 ----
 
