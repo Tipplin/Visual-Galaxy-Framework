@@ -89,6 +89,8 @@
 ### Oracle
 ----
 #### https://github.com/oracle?page=1
+### Oracle Open Source
+#### https://developer.oracle.com/de/open-source/
 ----
 ### Google
 ----
