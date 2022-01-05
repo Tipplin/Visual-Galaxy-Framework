@@ -109,6 +109,11 @@
 ### Oracle Open Source
 #### https://developer.oracle.com/de/open-source/
 ----
+### Oracle Java and OpenJDK - new Java 18
+#### https://github.com/openjdk/
+#### JDK 18 with windows functions for calls
+#### https://github.com/openjdk/jdk18
+----
 ### Google
 ----
 #### https://github.com/google?page=1
