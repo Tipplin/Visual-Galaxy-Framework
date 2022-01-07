@@ -207,6 +207,18 @@ AMD
 ----
 ### For Developers:
 ----
+### VANARA - Windows System as P/Invokes - Developer David Hall
+----
+#### https://github.com/dahall/Vanara
+----
+### Windows Classic Samples - C to C#
+----
+#### https://github.com/dahall/WinClassicSamplesCS
+----
+### Microsoft Windows Classic Samples - Original to David Hall WinClassicSamples in C++
+----
+#### https://github.com/Microsoft/Windows-classic-samples
+----
 ### Internet Archive Projects
 ----
 #### https://archive.org/projects/
