@@ -100,6 +100,10 @@
 ----
 #### https://github.com/ros
 ----
+### Robot Operation System
+----
+#### http://www.ros.org/
+----
 ## SAP
 ----
 #### https://github.com/sap?page=1
@@ -136,6 +140,10 @@
 ### Audi
 ----
 #### https://github.com/audi
+----
+### Porsche Informatic Austria
+----
+#### https://www.porscheinformatik.at/
 ----
 Cisco 
 ----
@@ -210,6 +218,13 @@ AMD
 #### http://www.operating-system.org/
 ----
 ### For Developers:
+----
+### Language Protocol Server - Visual Studio - Progamming Languages
+#### https://github.com/Microsoft/language-server-protocol
+----
+### Now the programming languages as View: at time over 100 - Implementation in VS -
+### as .vsix - visual studio extension
+#### https://microsoft.github.io/language-server-protocol/implementors/servers/ 
 ----
 ### VANARA - Windows System as P/Invokes - Developer David Hall
 ----
