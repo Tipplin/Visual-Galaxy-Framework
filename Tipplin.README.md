@@ -74,7 +74,7 @@
 ### Author Info:
 #### All our Projects and this Links and Free Music Archive (at buttom FMA browse FMA - show genres music style) on Handy:
 ----
-#### search: github/tipplin, came kurs christian tipplin - github touch with finger, then Visual Galaxy Framework touch with finger 
+#### search: github/tipplin, came Kurs Christian Tipplin - Github -touch with finger, then Visual Galaxy Framework touch with finger 
 #### and then - show code -, then - tipplin.README -, see first disclaimer for links and more,
 #### Smartphone Button Google, and the push button Google, 
 #### and all Links, go Google Pacman Game, 
