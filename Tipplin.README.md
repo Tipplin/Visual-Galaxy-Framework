@@ -80,7 +80,7 @@
 #### start first screen with in motion finger, swipe left, the game start now.
 #### On Smartphone show little Game screen, for greather Turn the phone horizontally.
 ----
-### PTB Clock
+### PTB Clock - same on Phone but without Speech output
 ----
 #### https://uhr.ptb.de/
 ----
@@ -126,7 +126,7 @@
 ----
 #### https://github.com/google?page=1
 ----
-### Google Pacman Game 
+### Google Pacman Game - Turn the phone to horizontal and swipe to the left Game greather -
 ----
 #### https://www.google.com/logos/2010/pacman10-i.html
 ----
