@@ -230,6 +230,11 @@ AMD
 ----
 #### https://github.com/dahall/Vanara
 ----
+### Microsoft.Windows.SDK as PInvoke written by Microsoft Developer Andrew Arnott
+#### using Microsoft.Windows.Sdk; for .NET
+----
+#### https://github.com/dotnet/pinvoke
+----
 ### Windows Classic Samples - C to C#
 ----
 #### https://github.com/dahall/WinClassicSamplesCS
