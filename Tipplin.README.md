@@ -221,6 +221,11 @@ AMD
 ----
 ### For Developers:
 ----
+### Office Developer
+#### Developer tools, samples, and other resources for building solutions on the Office 365 platform.
+----
+#### https://github.com/OfficeDev
+----
 ### Language Protocol Server - Visual Studio - Progamming Languages
 #### https://github.com/Microsoft/language-server-protocol
 ----
