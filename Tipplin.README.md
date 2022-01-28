@@ -1,7 +1,7 @@
 ----
-### TIPPLIN - Information                  Visual Galaxy Framework Community 
+# TIPPLIN - Information                  Visual Galaxy Framework Community 
 ----
-#### Copyrights © 2017-2022 by Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Copyrights © 2017-2022 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
 ----
 #### Portions of Copyrights © 1982-2022 by Microsoft Corporation 
 ----
@@ -68,7 +68,7 @@
 #### add to, or delete parts of the pages or the entire offer or
 #### to cease publication temporarily or permanently without prior notice.
 
-#### Author Christian Kurs
+#### Author: 🧑 Christian Kurs
 #### Germany, Bonn, January 05, 2022
 ----
 ### Author Info:
