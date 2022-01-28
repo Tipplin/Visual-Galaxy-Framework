@@ -3,9 +3,6 @@
 ## Parts yet !. 
 ## No Translate in English.
 ----
-- gesetzt in Visual Studio, ansprungbar: - Deutsch - Aufgabenliste einblenden lassen -
-- pragma anklicken, springt automatisch in diesen Codeteil
-----
 ### HACK
 ----
 - schmutzige, unvollständige Lösungen verwendet, die Implementierung eines
