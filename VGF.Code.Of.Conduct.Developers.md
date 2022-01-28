@@ -51,7 +51,7 @@
 #### in good faith may face temporary 
 #### or 
 #### permanent repercussions as determined by other members of the project's leadership.
-
+----
 ## Author Christian "Tipplin" Kurs:
 ### All Developers welcome to my Projects:
 ### For any Information, Mistakes or others send me an E-Mail:
