@@ -53,9 +53,9 @@
 #### permanent repercussions as determined by other members of the project's leadership.
 
 ## Author Christian "Tipplin" Kurs:
-#### All Developers welcome to my Projects:
-#### For any Information, Mistakes or others send me an E-Mail:
-#### kurschristian@gmail.com
+### All Developers welcome to my Projects:
+### For any Information, Mistakes or others send me an E-Mail:
+### kurschristian@gmail.com
 
 #### Germany, Bonn, January 05, 2022
 
