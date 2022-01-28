@@ -27,8 +27,8 @@
 ### UnresolvedMergeConf
 - unschlüssig - aufgeben - vermelzen
 ----
-### TIPPO 
-- mein entwickler nickname für Christian 'TIPPO' Kurs - 
+### TIPPLIN
+- mein entwickler nickname für Christian 'Tipplin' Kurs - 
 - Visual .NET #/C++ Developer'S Commentaries 
 - zu einen Codeteil oder Codestelle.
 ----
