@@ -1,5 +1,7 @@
 ----
-# 🧑 "Tipplin" - Information                  Visual Galaxy Framework Community 
+# 🧑 "Tipplin" - Information                  Visual Galaxy Framework 
+----
+#### All Developers are Welcome !
 ----
 #### Copyrights © 2017-2022 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
 ----
