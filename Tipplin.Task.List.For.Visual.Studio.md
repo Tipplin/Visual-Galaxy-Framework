@@ -81,9 +81,7 @@
 ----
 ### VERSION_COMPATIBILTY_INCOMPATIBLE
 - by .NET Frameworks
-- app written in 4.7 and component in 4.7.1
-- both in 4.7.1 or so...
-- with Message from Visual Studio.
+- app written in 4.8 and component in 4.8
 ----
 ### SUPPORTED_ALL_FX
 - all Operation Systems and .NET Framework
@@ -120,44 +118,6 @@
 - liegt meistens darin begründet, Kritikern die Möglichkeit zu geben, ein Produkt vor der Marktpremiere in > 
 - Augenschein zu nehmen, damit ihre Kritiken rechtzeitig zur Premiere in den Medien ...
 ----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
