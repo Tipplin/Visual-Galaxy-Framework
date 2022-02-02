@@ -39,7 +39,7 @@
 - ⛔ Instances of abusive, harassing, 
 - or 
 - ⛔ otherwise unacceptable behavior may be reported by 
-- ❗ contacting the project team at❗: 
+- ❗ contacting the project team at ❗: 
 - 🧑 kurschristian@gmail.com. 
 ----
 #### All complaints will be reviewed and investigated and 
@@ -55,11 +55,11 @@
 ----
 #### Author Christian "Tipplin" Kurs:
 ----
-### All Developers welcome to my Projects:
-### For any Information, Mistakes or others send me an E-Mail:
-### kurschristian@gmail.com
+#### All Developers welcome to my Projects:
+#### For any Information, Mistakes or others send me an E-Mail:
+#### kurschristian@gmail.com
 ----
 #### Germany, Bonn, January 05, 2022
 ----
-#### Copyright © 2017-2022 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
-#### Copyright © 2017-2022 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+##### Copyright © 2017-2022 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+##### Copyright © 2017-2022 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
