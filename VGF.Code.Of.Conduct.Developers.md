@@ -34,13 +34,14 @@
 - community include using an official project e-mail address, 
 - posting via an official social media account, or 
 - acting as an appointed representative at an online or offline event.
-### Representation of a project may be further defined and clarified by project maintainers.
-# Enforcement:
-- Instances of abusive, harassing, 
+- Representation of a project may be further defined and clarified by project maintainers.
+## Enforcement:
+- ⛔ Instances of abusive, harassing, 
 - or 
-- otherwise unacceptable behavior may be reported by 
-- contacting the project team at: 
-- kurschristian@gmail.com. 
+- ⛔ otherwise unacceptable behavior may be reported by 
+- ❗ contacting the project team at❗: 
+- 🧑 kurschristian@gmail.com. 
+----
 #### All complaints will be reviewed and investigated and 
 #### will result in a response that is deemed necessary and appropriate to the circumstances.
 
@@ -57,8 +58,8 @@
 ### All Developers welcome to my Projects:
 ### For any Information, Mistakes or others send me an E-Mail:
 ### kurschristian@gmail.com
-
+----
 #### Germany, Bonn, January 05, 2022
-
+----
 #### Copyright © 2017-2022 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
 #### Copyright © 2017-2022 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
