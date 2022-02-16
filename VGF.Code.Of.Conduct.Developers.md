@@ -28,13 +28,14 @@
 - ✔ that are not aligned to this Code of Conduct, or to ban temporarily or 
 - ✔ permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 ## Scope:
-- This Code of Conduct applies both within project spaces and 
+- 🟢 This Code of Conduct applies both within project spaces and 
 - in public spaces when an individual is representing the project or 
-- its community. Examples of representing a project or 
+- its community. 
+- 🟢 Examples of representing a project or 
 - community include using an official project e-mail address, 
 - posting via an official social media account, or 
 - acting as an appointed representative at an online or offline event.
-- Representation of a project may be further defined and clarified by project maintainers.
+- 🟢 Representation of a project may be further defined and clarified by project maintainers.
 ## Enforcement:
 - ⛔ Instances of abusive, harassing, 
 - or 
@@ -53,10 +54,10 @@
 #### or 
 #### permanent repercussions as determined by other members of the project's leadership.
 ----
-#### Author Christian "Tipplin" Kurs:
+#### 🧑 Author Christian "Tipplin" Kurs:
 ----
-#### All Developers welcome to my Projects:
-#### For any Information, Mistakes or others send me an E-Mail:
+#### 👨‍👦‍👦 All Developers welcome to my Projects:
+#### ✨ For any Information, 💥 Mistakes or others send me an E-Mail:
 #### kurschristian@gmail.com
 ----
 #### Germany, Bonn, January 05, 2022
