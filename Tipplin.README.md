@@ -84,7 +84,7 @@
 #### start first screen with in motion finger, swipe left, the game start now.
 #### On Smartphone show little Game screen, for greather Turn the phone horizontally.
 ----
-### PTB Clock - same on Phone but without Speech output
+### PTB Clock (Atomic Clock) - same on Phone but without Speech output
 ----
 #### https://uhr.ptb.de/
 ----
