@@ -1,3 +1,3 @@
 # Visual.Galaxy.Framework
-Framework for great Applications
-write your Applications with our Framework Classes and Methods.
+write your Applications with our Framework Classes and Methods for many categories.
+----
