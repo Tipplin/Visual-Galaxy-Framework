@@ -238,11 +238,15 @@ AMD
 ### VANARA - Windows System as P/Invokes - Developer David Hall
 ----
 #### https://github.com/dahall/Vanara
+##### Make new Windows Operation System Wrapper's in C# at last.
 ----
 ### Microsoft.Windows.SDK as PInvoke written by Microsoft Developer Andrew Arnott
 ### using Microsoft.Windows.Sdk; // for .NET
-----
+#### Make new Windows Operation System Wrapper's in C# at last.
 #### https://github.com/dotnet/pinvoke
+----
+### P/Invoke.NET
+#### https://pinvoke.net/
 ----
 ### Windows Classic Samples - C to C#
 ----
