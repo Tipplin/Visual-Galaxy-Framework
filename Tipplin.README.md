@@ -246,6 +246,7 @@ AMD
 #### https://github.com/dotnet/pinvoke
 ----
 ### P/Invoke.NET
+#### Many Windows Operation System Functions for Visual C# and Visual Basic.NET
 #### https://pinvoke.net/
 ----
 ### Windows Classic Samples - C to C#
