@@ -125,8 +125,10 @@
 #### https://github.com/openjdk/
 #### JDK 18 with windows functions for calls
 #### https://github.com/openjdk/jdk18
-#### JDK 19 in Progress
+#### JDK 19 in initial Release
 #### https://openjdk.java.net/projects/jdk/19/
+#### JDK 20 in Progress
+#### https://openjdk.java.net/projects/jdk/20/
 ----
 ### Google
 ----
