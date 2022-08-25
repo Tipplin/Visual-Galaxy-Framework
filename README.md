@@ -29,6 +29,7 @@
 #### makes no warranties, either express or implied, in this document.
 #### Information in this document is subject to change without notice. 
 ----
+## LIMITED WARRANTY
 #### NO OTHER WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
 #### CHRISTIAN 'TIPPLIN' KURS as Maintainer 
 #### AND ITS SUPPLIERS DISCLAIM ALL OTHER WARRANTIES, EITHER EXPRESS OR
