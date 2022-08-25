@@ -90,7 +90,7 @@
 - .NET to iOS
 - .NET to macOS
 - .NET to macCatalyst 
-- .NET to Android - (execute Android Apps on Windows 11)
+- .NET to Android - (you can execute Android Apps on Windows 11)
 ----
 ### SUPPORTED_PARTITIALLY_OS_FX
 - only operation system: Windows 7, Windows 8, Windows 8.1, Windows 10
