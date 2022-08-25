@@ -40,7 +40,7 @@
 - ⛔ Instances of abusive, harassing, 
 - or 
 - ⛔ otherwise unacceptable behavior may be reported by 
-- ❗ contacting the project team at ❗: 
+- ❗ contacting the Project-Team or me at ❗: 
 - 🧑 kurschristian@gmail.com. 
 ----
 #### All complaints will be reviewed and investigated and 
