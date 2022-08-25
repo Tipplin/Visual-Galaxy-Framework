@@ -48,3 +48,16 @@
 #### FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, 
 #### THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
 ----
+----
+#### 🧑 Project-Maintainer and Author Christian "Tipplin" Kurs:
+----
+#### 👨‍👦‍👦 All Developers welcome to my Projects:
+#### ✨ For any Information, 💥 Mistakes or others send me an E-Mail:
+#### kurschristian@gmail.com
+----
+#### Germany, Bonn, January 05, 2022
+----
+##### Copyright © 2017-2022 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+##### Copyright © 2017-2022 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+##### Copyright © 1982-2022 - Visual Studio, Windows by Microsoft Corporation.
+-----
