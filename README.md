@@ -3,8 +3,8 @@
 ![AppDevelopmentIosAppDevelopmentCompanyGIF](https://user-images.githubusercontent.com/40143278/167638650-d92e0756-1327-4d83-b333-b0f4f5b48c8d.gif)
 ----
 ## Introduction
-Visual Galaxy Framework is just a great application as .NET Assembly 
-organized Namespaces, Classes, Methods in a hierarchical manner.
+#### Visual Galaxy Framework is just a great application as .NET Assembly 
+#### organized Namespaces, Classes, Methods in a hierarchical manner.
 #### Use for any Project, any Application.
 ----
 ## Background:
