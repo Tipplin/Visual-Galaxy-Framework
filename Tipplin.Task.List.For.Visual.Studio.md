@@ -29,7 +29,7 @@
 ----
 ### TIPPLIN
 - mein entwickler nickname für Christian 'Tipplin' Kurs - 
-- Visual .NET #/C++ Developer'S Commentaries 
+- Visual .NET #/C++ Developer's Commentaries 
 - zu einen Codeteil oder Codestelle.
 ----
 ### SAFE
