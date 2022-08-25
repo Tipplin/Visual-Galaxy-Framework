@@ -86,7 +86,7 @@
 ### SUPPORTED_ALL_FX
 - all Operation Systems and .NET Framework
 - Windows Operation System
-- at Net 6 and 7 or higher
+- at Net 6 and 7 or higher (old Xamarin)
 - NET to iOS
 - NET to macOS
 - NET to macCatalyst 
