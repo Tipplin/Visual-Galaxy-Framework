@@ -87,10 +87,10 @@
 - all Operation Systems and .NET Framework
 - Windows Operation System
 - at Net 6 and 7 or higher (old Xamarin)
-- NET to iOS
-- NET to macOS
-- NET to macCatalyst 
-- NET to Android.
+- .NET to iOS
+- .NET to macOS
+- .NET to macCatalyst 
+- .NET to Android - execute Android Apps on Windows 11
 ----
 ### SUPPORTED_PARTITIALLY_OS_FX
 - only operation system: Windows 7, Windows 8, Windows 8.1, Windows 10
