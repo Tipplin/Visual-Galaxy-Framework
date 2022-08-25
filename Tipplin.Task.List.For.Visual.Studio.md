@@ -86,9 +86,11 @@
 ### SUPPORTED_ALL_FX
 - all Operation Systems and .NET Framework
 - Windows Operation System
-- bridges to Apple macOS, iOS, tvOS, watchOS
-- bridge to Google Android
-- bridge to IBM AIX, z/mainframes,
+- at Net 6 and 7 or higher
+- NET to iOS
+- NET to macOS
+- NET to macCatalyst 
+- NET to Android.
 ----
 ### SUPPORTED_PARTITIALLY_OS_FX
 - only operation system: Windows 7, Windows 8, Windows 8.1, Windows 10
