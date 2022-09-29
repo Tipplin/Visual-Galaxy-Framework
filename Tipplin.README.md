@@ -125,7 +125,7 @@
 #### https://github.com/openjdk/
 #### JDK 18 with windows functions for calls
 #### https://github.com/openjdk/jdk18
-#### JDK 19 Final Release Candidate at 25.08.2022
+#### JDK 19 Final 20.09.2022
 #### https://openjdk.java.net/projects/jdk/19/
 #### JDK 20 in Progress
 #### https://openjdk.java.net/projects/jdk/20/
