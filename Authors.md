@@ -1,8 +1,8 @@
 #### Original Author 
 ----
-- Christian 'Tipplin' Kurs            
-- https://github.com/Tipplin
-- kurschristian@gmail.com
+##### Christian 'Tipplin' Kurs            
+##### https://github.com/Tipplin
+##### kurschristian@gmail.com
 ----
 #### Contributors 
 ----
