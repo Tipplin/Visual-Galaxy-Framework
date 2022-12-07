@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "6xXXvE0IjvjGk+HNk9FTXCDmjN+wujgTGxvbc4r3qaAoP7t5wcHzzi9SfcDh5Yk75w4DRl0X+MJuJIUORkz+6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tipplin\\Development\\source\\repos\\VGF\\VGF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.core\\3.4.11\\vanara.core.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.net\\3.4.11\\vanara.net.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.comctl32\\3.4.11\\vanara.pinvoke.comctl32.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.cryptography\\3.4.11\\vanara.pinvoke.cryptography.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.dhcp\\3.4.11\\vanara.pinvoke.dhcp.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.dnsapi\\3.4.11\\vanara.pinvoke.dnsapi.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.drt\\3.4.11\\vanara.pinvoke.drt.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.gdi32\\3.4.11\\vanara.pinvoke.gdi32.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.kernel32\\3.4.11\\vanara.pinvoke.kernel32.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.netapi32\\3.4.11\\vanara.pinvoke.netapi32.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.ole\\3.4.11\\vanara.pinvoke.ole.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.rpc\\3.4.11\\vanara.pinvoke.rpc.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.security\\3.4.11\\vanara.pinvoke.security.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.shared\\3.4.11\\vanara.pinvoke.shared.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.shell32\\3.4.11\\vanara.pinvoke.shell32.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.shlwapi\\3.4.11\\vanara.pinvoke.shlwapi.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.user32\\3.4.11\\vanara.pinvoke.user32.3.4.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vanara.pinvoke.ws2_32\\3.4.11\\vanara.pinvoke.ws2_32.3.4.11.nupkg.sha512"
+  ],
+  "logs": []
+}

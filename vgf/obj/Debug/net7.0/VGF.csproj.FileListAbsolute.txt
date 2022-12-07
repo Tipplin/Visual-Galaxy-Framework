@@ -1,0 +1,12 @@
+C:\Users\Tipplin\Development\source\repos\VGF\bin\Debug\net7.0\VGF.deps.json
+C:\Users\Tipplin\Development\source\repos\VGF\bin\Debug\net7.0\VGF.dll
+C:\Users\Tipplin\Development\source\repos\VGF\bin\Debug\net7.0\VGF.pdb
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.csproj.AssemblyReference.cache
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.AssemblyInfoInputs.cache
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.AssemblyInfo.cs
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.csproj.CoreCompileInputs.cache
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.dll
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\refint\VGF.dll
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\VGF.pdb
+C:\Users\Tipplin\Development\source\repos\VGF\obj\Debug\net7.0\ref\VGF.dll
