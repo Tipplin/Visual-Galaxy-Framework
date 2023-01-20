@@ -3,9 +3,9 @@
 ----
 ## 👨‍👦‍👦 All Developers are Welcome !
 ----
-#### Copyrights © 2017-2022 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Copyrights © 2017-2023 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
 ----
-#### Portions of Copyrights © 1982-2022 by Microsoft Corporation 
+#### Portions of Copyrights © 1982-2023 by Microsoft Corporation 
 ----
 ## Links Disclaimer
 ----
@@ -71,7 +71,7 @@
 #### to cease publication temporarily or permanently without prior notice.
 
 #### Author: 🧑 Christian Kurs
-#### Germany, Bonn, January 05, 2022
+#### Germany, Bonn, January 20, 2023
 ----
 ### Author Info:
 #### All our Projects and this Links and Free Music Archive (at buttom FMA browse FMA - show genres music style) on Handy:
