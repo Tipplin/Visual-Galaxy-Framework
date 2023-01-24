@@ -93,10 +93,7 @@
 - .NET to Android - (you can execute Android Apps on Windows 11)
 ----
 ### SUPPORTED_PARTITIALLY_OS_FX
-- only operation system: Windows 7, Windows 8, Windows 8.1, Windows 10
-- Windows XP, Vista now not supported !!!
-- both have no new Instruction Code (Processor).
-- Windows Vista have a lot of Errors inside !. DON'T USE IT !
+- only operation system: Windows 10, Windows 11
 ----
 ### SUPPORTED_NOT_OS_FX
 - this operation system and Framework NOT SUPPORTED !!!.
