@@ -129,7 +129,7 @@
 #### https://openjdk.java.net/projects/jdk/19/
 #### JDK 20 in Progress
 #### https://openjdk.java.net/projects/jdk/20/
-#### JDK 21 in Progress, opening Mainline Repository
+#### JDK 21 in Progress, opening Mainline Code Repository
 #### https://openjdk.java.net/projects/jdk/21/
 ----
 ### Google
