@@ -108,7 +108,7 @@
 ----
 #### http://www.ros.org/
 ----
-## SAP
+### SAP
 ----
 #### https://github.com/sap?page=1
 #### SAP FTPServer with Sourcecodes, z.b. maxdb (database) complete, but not the newest - commerical -
@@ -127,7 +127,7 @@
 #### https://github.com/openjdk/jdk18
 #### JDK 19 Final 20.09.2022
 #### https://openjdk.java.net/projects/jdk/19/
-#### JDK 20 in Progress
+#### JDK 20 Ramp Phase 2
 #### https://openjdk.java.net/projects/jdk/20/
 #### JDK 21 in Progress, opening Mainline Code Repository
 #### https://openjdk.java.net/projects/jdk/21/
@@ -155,7 +155,7 @@
 ----
 #### https://www.porscheinformatik.at/
 ----
-Cisco 
+### Cisco 
 ----
 #### https://search.cisco.com/search?locale=enUS&query=Github
 ----
@@ -163,7 +163,11 @@ Cisco
 ----
 #### https://github.com/HewlettPackard
 ----
-AMD
+### Apple
+----
+#### https://github.com/apple
+----
+### AMD
 ----
 #### https://github.com/amd
 ----
@@ -285,8 +289,9 @@ AMD
 ----
 #### http://www.spiele-kostenlos-online.de
 ----
-
-
+#### Copyrights © 2017-2023 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Trademarks and Copyrights © 2023 by they Owner of Websites.
+----
 
 
 
