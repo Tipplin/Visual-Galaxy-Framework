@@ -51,7 +51,7 @@
 #### FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, 
 #### THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
 ----
-#### 🧑 Project-Maintainer and Author Christian "Tipplin" Kurs:
+#### 🧑 Project-Maintainer and Head-Author Christian "Tipplin" Kurs:
 ----
 #### 👨‍👦‍👦 All Developers welcome to my Projects:
 #### ✨ For any Information, 💥 Mistakes or others send me an E-Mail:
