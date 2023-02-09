@@ -127,7 +127,7 @@
 #### https://github.com/openjdk/jdk18
 #### JDK 19 Final 20.09.2022
 #### https://openjdk.java.net/projects/jdk/19/
-#### JDK 20 Inital Release Candidate at 09.02.2023
+#### JDK 20 Final Release Candidate at 23.02.2023
 #### https://openjdk.java.net/projects/jdk/20/
 #### JDK 21 in Progress, opening Mainline Code Repository
 #### https://openjdk.java.net/projects/jdk/21/
