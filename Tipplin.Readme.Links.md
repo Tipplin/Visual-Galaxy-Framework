@@ -70,7 +70,7 @@
 #### add to, or delete parts of the pages or the entire offer or
 #### to cease publication temporarily or permanently without prior notice.
 
-#### Author: 🧑 Christian Kurs
+#### Author: 🧑 Christian 'Tipplin' Kurs
 #### Germany, Bonn, January 20, 2023
 ----
 ### Author Info:
@@ -139,6 +139,16 @@
 ### Google Pacman Game - Turn the phone to horizontal and swipe to the left Game greather -
 ----
 #### https://www.google.com/logos/2010/pacman10-i.html
+----
+### GitHub Important Repos
+----
+#### CodeProject.AI Server
+#### A standalone, self-hosted, fast, free and 
+#### Open Source Artificial Intelligence microserver 
+#### for any platform, any language. 
+#### It can be installed locally, required no off-device or 
+#### out of network data transfer, and is easy to use.
+#### https://github.com/codeproject/CodeProject.AI-Server
 ----
 ### Intel
 #### https://github.com/intel
@@ -232,6 +242,21 @@
 #### http://www.operating-system.org/
 ----
 ### For Developers:
+----
+### To Microsoft Links
+----
+### Theme of NET:
+#### https://themesof.net/
+#### Roadmap of .NET8
+#### https://themesof.net/roadmap?product=.NET&release=8.0
+#### Item Runtime
+#### Item Libraries
+#### Item Application Models
+#### Item Tooling
+#### Item Acquisition and Deployment
+----
+#### Roadmap of .NET9
+#### https://themesof.net/roadmap?product=.NET&release=9.0
 ----
 ### Office Developer
 #### Developer tools, samples, and other resources for building solutions on the Office 365 platform.
