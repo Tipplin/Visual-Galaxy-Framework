@@ -143,11 +143,12 @@
 ### GitHub Important Repos
 ----
 #### CodeProject.AI Server
-#### A standalone, self-hosted, fast, free and 
-#### Open Source Artificial Intelligence microserver 
-#### for any platform, any language. 
-#### It can be installed locally, required no off-device or 
-#### out of network data transfer, and is easy to use.
+
+- A standalone, self-hosted, fast, free and 
+- Open Source Artificial Intelligence microserver 
+- for any platform, any language. 
+- It can be installed locally, required no off-device or 
+- out of network data transfer, and is easy to use.
 #### https://github.com/codeproject/CodeProject.AI-Server
 ----
 ### Intel
