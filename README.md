@@ -24,7 +24,9 @@
 #### Use Visual Studio 2022 and .NET6 or .NET7 or Higher:
 #### The Visual C# Compiler is included so that you can evaluate your Win64 code syntax.
 ----
+![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 #### Please send your questions and feedback to kurschristian@google.com
+----
 #### There are also several topics in the Visual Galaxy Framework Platform SDK documentation 
 #### on porting to Win64 and targeting Win64 using .
 ----
