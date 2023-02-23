@@ -2,7 +2,14 @@
 
 
 ![AppDevelopmentIosAppDevelopmentCompanyGIF](https://user-images.githubusercontent.com/40143278/167638650-d92e0756-1327-4d83-b333-b0f4f5b48c8d.gif)
-
+#### 🧑 Project-Maintainer and Head-Author Christian "Tipplin" Kurs:
+----
+#### 👨‍👦‍👦 All Developers welcome to my Projects:
+#### ✨ For any feedback, questions, information, 💥 Mistakes or others send me an E-Mail:
+![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
+#### kurschristian@gmail.com
+----
+#### Germany, Bonn, Febr 23, 2023
 ----
 ## Introduction
 #### Visual Galaxy Framework is just a great application as .NET Assembly 
@@ -24,9 +31,6 @@
 #### Use Visual Studio 2022 and .NET6 or .NET7 or Higher:
 #### The Visual C# Compiler is included so that you can evaluate your Win64 code syntax.
 ----
-![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
-#### Please send your questions and feedback to kurschristian@google.com
-----
 #### There are also several topics in the Visual Galaxy Framework Platform SDK documentation 
 #### on porting to Win64 and targeting Win64 using .
 ----
@@ -35,6 +39,7 @@
 #### Information in this document is subject to change without notice. 
 ----
 ## LIMITED WARRANTY
+----
 #### NO OTHER WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
 #### CHRISTIAN 'TIPPLIN' KURS AS PROJECT-MAINTAINER AND AUTHOR
 #### AND ITS SUPPLIERS DISCLAIM ALL OTHER WARRANTIES, EITHER EXPRESS OR
@@ -52,14 +57,6 @@
 #### BECAUSE SOME STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY
 #### FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, 
 #### THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
-----
-#### 🧑 Project-Maintainer and Head-Author Christian "Tipplin" Kurs:
-----
-#### 👨‍👦‍👦 All Developers welcome to my Projects:
-#### ✨ For any Information, 💥 Mistakes or others send me an E-Mail:
-#### kurschristian@gmail.com
-----
-#### Germany, Bonn, January 20, 2023
 ----
 #### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
 #### Copyright © 2017-2023 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
