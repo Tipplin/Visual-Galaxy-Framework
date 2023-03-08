@@ -1,5 +1,5 @@
 ----
-### Copyright © 2017-2023 - Roadmap of Visual Galaxy Framework
+### Roadmap of Visual Galaxy Framework - Copyright © 2017-2023 by VGF-Kernelteam.
 ----
 ### Short Description:
 ----
