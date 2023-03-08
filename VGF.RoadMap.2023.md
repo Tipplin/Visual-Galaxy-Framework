@@ -11,8 +11,10 @@
 | Status		| Version | Major | Minor | Build | Revision |
 | --------- | ------- | ----- | ----- | ----- | -------- |
 ----
- - Protocol of Development | DateTime |
+ - | Protocol of Development | DateTime |
+ - | ----------------------- | -------- |
  - [ ] Develop-point 1 |
+----
  - [ ] Develop-point 2 |
 ----
 ###### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
