@@ -12,6 +12,7 @@
 ----
 | Status		| Version | Major | Minor | Build | Revision |
 | --------- | ------- | ----- | ----- | ----- | -------- |
+| active | 0 | 0 | 1 | 2 | 1000 | 1001 |
 ----
  - Protocol of Development:
  - DateTime:
