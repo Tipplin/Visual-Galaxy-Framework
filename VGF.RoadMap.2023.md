@@ -1,9 +1,9 @@
 ----
 ### Roadmap of Visual Galaxy Framework - Copyright © 2017-2023 by VGF-Kernelteam.
 ----
-### Short Description:
+#### Short Description:
 ----
-### Short View:
+#### Short View:
 ----
 | Namespaces | Classes | Methods |
 | ---------- | ------- | ------- |
