@@ -9,6 +9,7 @@
 | ---------- | ------- | ------- |
 | VGFCore    | VGFUtility | VGFConvertValue |
 | VGFDateTime | VGFDateTime | VGFWorldWideHolidays |
+| VGFOperationSystem | VGFWindowsOS | VGFWorkstation |
 ----
 | Status		| Version | Major | Minor | Build | Revision |
 | --------- | ------- | ----- | ----- | ----- | -------- |
