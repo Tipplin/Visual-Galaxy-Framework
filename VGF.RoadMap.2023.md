@@ -7,6 +7,8 @@
 ----
 | Namespaces | Classes | Methods |
 | ---------- | ------- | ------- |
+| VGFCore    | Utility | VGFConvertValue |
+| ---------- | ------- | ------- |
 ----
 | Status		| Version | Major | Minor | Build | Revision |
 | --------- | ------- | ----- | ----- | ----- | -------- |
