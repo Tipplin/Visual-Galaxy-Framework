@@ -7,8 +7,8 @@
 ----
 | Namespaces | Classes | Methods |
 | ---------- | ------- | ------- |
-| VGFCore    | Utility | VGFConvertValue |
-| ---------- | ------- | ------- |
+| VGFCore    | VGFUtility | VGFConvertValue |
+| VGFDateTime | VGFDateTime | VGFWorldWideHolidays |
 ----
 | Status		| Version | Major | Minor | Build | Revision |
 | --------- | ------- | ----- | ----- | ----- | -------- |
