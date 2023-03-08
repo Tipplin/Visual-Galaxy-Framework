@@ -11,8 +11,8 @@
 | Status		| Version | Major | Minor | Build | Revision |
 | --------- | ------- | ----- | ----- | ----- | -------- |
 ----
- - | Protocol of Development | DateTime |
- - | ----------------------- | -------- |
+ - Protocol of Development     |  DateTime 
+----
  - [ ] Develop-point 1 |
 ----
  - [ ] Develop-point 2 |
