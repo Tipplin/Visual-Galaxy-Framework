@@ -1,18 +1,17 @@
 ----
-# Copyright © 2017-2023 - Roadmap of Visual Galaxy Framework
+### Copyright © 2017-2023 - Roadmap of Visual Galaxy Framework
 ----
-## Short Description:
+### Short Description:
 ----
-## Short View:
+### Short View:
 ----
 | Namespaces | Classes | Methods |
 | ---------- | ------- | ------- |
-
 ----
 | Status		| Version | Major | Minor | Build | Revision |
 
 ----
-| Protocol of Development | DateTime |
+| - Protocol of Development | DateTime |
 | - [ ] Develop-point 1 |
 | - [ ] Develop-point 2 |
 
