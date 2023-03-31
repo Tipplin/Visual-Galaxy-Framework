@@ -162,7 +162,7 @@
 ----
 #### https://github.com/audi
 ----
-### Porsche Informatic Austria
+### Porsche Computer Sciences Austria
 ----
 #### https://www.porscheinformatik.at/
 ----
