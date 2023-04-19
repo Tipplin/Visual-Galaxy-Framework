@@ -331,7 +331,7 @@
  * ----------------- den-WEN - Sorbian Wendish ----------------------------
  * 
  * for the people of Spreewood by Berlin in Lausitz.
- *
+ * dobre ranje - witami nam
  *=========================================================================
  * 'Tipplin' myself:
  * ------------------------------------------------------------------------
@@ -370,7 +370,7 @@
  * United Nations in Bonn:
  * UN-Tower - (German Slang "Langer Eugen").
  * 'UN Bonn' Website for more Information what UN do in Bonn.
- * 
+ * 2000 Workers
  * ------------------------------------------------------------------------
  * Three Cities in the World:
  * New York, Wien, Genf and Bonn. 
@@ -394,7 +394,7 @@
  * Bavarian 'Almhütte' with Orginal Bavarian Meats and Beer, more...
  * delivered from Bavaria.
  * 
- * Hotel Hilton (IS OVER!, new Name is Hotel Dorint)
+ * Hotel Hilton (IS OVER!, new Name is Hotel Dorint !)
  * 
  * The Steigenberger Hotel on Petersberg are 5 Stars Hotel.
  * 
@@ -463,6 +463,9 @@
  * means all directives guilty in Project, 
  * no more write namespaces in other cs.files.
  * 
+ * ATTENTION ! at new .NET8 have an file with auto-created 
+ * usings global for all .cs Files,
+ * so you must no again set this usings.
  */
 global using System;
 
