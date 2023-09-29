@@ -131,6 +131,8 @@
 #### https://openjdk.java.net/projects/jdk/20/
 #### JDK 21 General Availability on 19 September 2023
 #### https://openjdk.java.net/projects/jdk/21/
+#### JDK 22
+#### https://openjdk.org/projects/jdk/22/
 ----
 ### Google
 ----
