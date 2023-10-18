@@ -121,7 +121,7 @@
 ### Oracle Open Source
 #### https://developer.oracle.com/de/open-source/
 ----
-### Oracle Java and OpenJDK - Java 18
+### Oracle Java and OpenJDK 
 #### https://github.com/openjdk/
 #### JDK 18 with windows functions for calls
 #### https://github.com/openjdk/jdk18
@@ -314,6 +314,8 @@
 #### http://freemusicarchive.org/
 ----
 ### Free Games Online (in German)
+----
+My Favorite: Pinball, Shooting Ducks
 ----
 #### http://www.spiele-kostenlos-online.de
 ----
