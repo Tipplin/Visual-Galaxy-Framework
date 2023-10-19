@@ -313,9 +313,9 @@
 ----
 #### http://freemusicarchive.org/
 ----
-### Free Games Online (in German)
+## Free Games Online (in German)
 ----
-My Favorite: Pinball, Shooting Ducks
+#### My Favorite: Pinball, Shooting Ducks
 ----
 #### http://www.spiele-kostenlos-online.de
 ----
