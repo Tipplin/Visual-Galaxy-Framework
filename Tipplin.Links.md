@@ -124,15 +124,14 @@
 ### Oracle Java and OpenJDK 
 #### https://github.com/openjdk/
 #### JDK 18 with windows functions for calls
-#### https://github.com/openjdk/jdk18
-#### JDK 19 Final 20.09.2022
-#### https://openjdk.java.net/projects/jdk/19/
 #### JDK 20 General Availability 21.03.2023
 #### https://openjdk.java.net/projects/jdk/20/
 #### JDK 21 General Availability on 19 September 2023
 #### https://openjdk.java.net/projects/jdk/21/
-#### JDK 22
+#### JDK 22 General Availability 19.03.2024
 #### https://openjdk.org/projects/jdk/22/
+#### JDK 23 in progress
+#### https://openjdk.org/projects/jdk/23/
 ----
 ### Google
 ----
