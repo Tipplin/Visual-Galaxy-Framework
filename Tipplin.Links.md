@@ -3,9 +3,9 @@
 ----
 ## 👨‍👦‍👦 All Developers are Welcome !
 ----
-#### Copyrights © 2017-2023 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Copyrights © 2017-2024 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
 ----
-#### Portions of Copyrights © 1982-2023 by Microsoft Corporation 
+#### Portions of Copyrights © 1982-2024 by Microsoft Corporation 
 ----
 ## Links Disclaimer
 ----
