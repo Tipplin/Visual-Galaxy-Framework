@@ -318,8 +318,8 @@
 ----
 #### http://www.spiele-kostenlos-online.de
 ----
-#### Copyrights © 2017-2023 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
-#### Trademarks and Copyrights © 2023 by they Owner of Websites.
+#### Copyrights © 2017-2024 by 👁️ Christian "Tipplin" Kurs - Visual .NET C# / C++ Developer
+#### Trademarks and Copyrights © 2024 by they Owner of Websites.
 ----
 
 
