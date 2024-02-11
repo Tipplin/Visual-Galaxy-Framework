@@ -126,7 +126,7 @@
 #### JDK 18 with windows functions for calls
 #### JDK 20 General Availability 21.03.2023
 #### https://openjdk.java.net/projects/jdk/20/
-#### JDK 21 General Availability on 19 September 2023
+#### JDK 21 General Availability 19.09.2023
 #### https://openjdk.java.net/projects/jdk/21/
 #### JDK 22 General Availability 19.03.2024
 #### https://openjdk.org/projects/jdk/22/
