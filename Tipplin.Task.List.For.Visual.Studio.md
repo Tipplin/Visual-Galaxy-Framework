@@ -1,72 +1,69 @@
 ----
 # TIPPLIN             Task-List for Visual Studio -   Universal   -   for everybody -
 ## Parts yet !. 
-## No Translate in English.
 ----
 ### HACK
 ----
-- schmutzige, unvollständige Lösungen verwendet, die Implementierung eines
-- bestimmten Teilaspektes funktioniert zwar (einigermaßen), ist aber bzw. von
-- bestimmten technischen Aspekten abhängig etc.. generiert ein Stück Code, mit
-- dem der Programmierer 'Keine Probleme' hat und der noch der Fertigstellung
-. überarbeitet werden sollte.
+- dirty, incomplete solutions are used, the implementation of a
+- certain partial aspect works (somewhat), but is dependent on
+- certain technical aspects, etc.. generates a piece of code with which
+- the programmer has 'no problems' and which should be revised before completion.
 ----
 ### BUG
 ----
-- eine identifizierte, aber noch nicht behobene Fehlerstelle.
+- an identified but not yet fixed error.
 ----
 ### PROBLEM
-- eine identifizierte, potentiell, problematische Stelle (die vielleicht einem
-- eingehenderen Test unterzogen werden muss.)
+- an identified, potentially problematic area (which may need to be subjected to
+- more thorough testing.)
 ----
 ### PORT
-- eine Betriebssystem- oder umgebungsabhängige Codestelle, bei den Portierungen
-- unter Umständen verändert werden muss,
-- (wenn das eine Zielsetzung des Projektes ist.)
+- an operating system or environment-dependent code section
+- that may need to be changed during porting (if that is an objective of the project).
 ----
 ### UnresolvedMergeConf
-- unschlüssig - aufgeben - vermelzen
+- undecided - give up - merge
 ----
 ### TIPPLIN
-- mein entwickler nickname für Christian 'Tipplin' Kurs - 
-- Visual .NET #/C++ Developer's Commentaries 
-- zu einen Codeteil oder Codestelle.
+- my developer nickname for Christian 'Tipplin' Kurs -
+- Visual .NET #/C++ Developer's Commentaries
+- to a piece of code or code location.
 ----
 ### SAFE
-- Code ist sicher
+- Code is secure
 ----
 ### UNSAFE
-- Code ist nicht sicher
+- Code is not secure
 ----
 ### BREAK
-- Stop, Halt bei x, Aufhebung, Auflösung
+- Stop, stop at x, cancellation, dissolution
 ----
 ### CAUSE
-- Ursache, Grund
+- cause, reason
 ----
 ### FINALSTAGE
-- Schlussphase
+- Final phase
 ----
 ### URGENT
-- dringend zu bearbeiten
+-to be processed urgently
 ----
 ### STABLE
-- stabile Code, Codeteil getestet
+- stable code, part of the code tested
 ----
 ### UNSTABLE
 - unstabile code, must be tested
 ----
 ### AUDIT
-- Code, Codeteil zum prüfen freigegeben.
+- Code, part of the code released for testing.
 ----
 ### SAFE_TO_OPERATE
-- betriebssicher dieser Code, Codeteil
+- reliable this code, code part
 ----
 ### FAULTNESS
-- Code, Codeteil ist fehlerfrei.
+- Code, part of code is error-free.
 ----
 ### FAULTY (full of mistakes)
-- Fehlerhafter Code, Codeteil
+- Faulty code, code part
 ----
 ### OBSOLETE
 - to OLD, delete next time in new release
