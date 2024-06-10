@@ -45,7 +45,7 @@
 - Final phase
 ----
 ### URGENT
--to be processed urgently
+- to be processed urgently
 ----
 ### STABLE
 - stable code, part of the code tested
