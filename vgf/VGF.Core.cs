@@ -17,11 +17,11 @@
 //----------------------------------------------------------------------------
 // .NET in Progress :   8.0 with new features at 2023 (Release Novembre 2023!)
 //----------------------------------------------------------------------------
-// Copyright © 2017-2023, 
+// Copyright © 2017-2024, 
 // by  Visual Galaxy Framework Community Kernel Developer Team.
 //
 // by Head-Author: Christian "Tipplin" Kurs - Visual C# Developer
-// Portions Copyright © 1982-2023 by Microsoft Corporation GmbH.
+// Portions Copyright © 1982-2024 by Microsoft Corporation GmbH.
 //
 // ---------------------------------------------------------------------------
 // Same sourcecode by Microsoft, so we marked with Copyright !.
@@ -128,14 +128,14 @@
  * Please see the documentation supplied with 
  * the VGF Libraries for further details.
  * ============================================================================
- * Authored by Copyright © 2917-2023 by 
+ * Authored by Copyright © 2917-2024 by 
  * Visual Galaxy Framework Community Kernel Developer Team.
  * All rights reserved.
  * ============================================================================
  * May be redistributed for free, but may not be sold without 
  * the author's explicit permission.
  * ----------------------------------------------------------------------------
- * This software is Copyright © 2017-2023 by VGF-Technologies at VGF-KernelTeam
+ * This software is Copyright © 2017-2024 by VGF-Technologies at VGF-KernelTeam
  * You may only use this software if you are an 
  * authorized licensee of an VGF developer tools product.
  * ----------------------------------------------------------------------------
@@ -146,7 +146,7 @@
  */
 
 /*-----------------------------------------------------------------------------
- * Copyright © 2017-2023 Christian 'Tipplin' Kurs. All Rights Reserved.
+ * Copyright © 2017-2024 Christian 'Tipplin' Kurs. All Rights Reserved.
  *-----------------------------------------------------------------------------
  * you may not use this file except in compliance with the License.
  * See License Agreement in Class VGF.Core at Main Head.
@@ -172,7 +172,7 @@
  * and entities on the Bureau of Export Administration Entity List or
  * involved with missile technology or nuclear, chemical or biological weapons)
  * -----------------------------------------------------------------------------
- * © 1982-2023 Microsoft Corporation.All rights reserved.
+ * © 1982-2024 Microsoft Corporation.All rights reserved.
  * -----------------------------------------------------------------------------
  *==============================================================================
 */
