@@ -130,7 +130,8 @@
 #### https://openjdk.java.net/projects/jdk/21/
 #### JDK 22 General Availability 19.03.2024
 #### https://openjdk.org/projects/jdk/22/
-#### JDK 23 in progress
+#### JDK 23 2024/08/22		Final Release Candidate
+#### 2024/09/17		General Availability
 #### https://openjdk.org/projects/jdk/23/
 ----
 ### Google
