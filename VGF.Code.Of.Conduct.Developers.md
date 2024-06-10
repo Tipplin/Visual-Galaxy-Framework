@@ -60,7 +60,7 @@
 #### ✨ For any Information, 💥 Mistakes or others send me an E-Mail:
 #### kurschristian@gmail.com
 ----
-#### Germany, Bonn, January 20, 2023
+#### Germany, Bonn, January 20, 2024
 ----
-##### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
-##### Copyright © 2017-2023 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
+##### Copyright © 2017-2024 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
+##### Copyright © 2017-2024 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
